@@ -1,0 +1,22 @@
+[
+    {
+        "nome": "thiago",
+        "notificador": "email"
+    },
+    {
+        "nome": "bianca",
+        "notificador": "push"
+    },
+    {
+        "nome": "gustavo",
+        "notificador": "push"
+    },
+    {
+        "nome": "joao",
+        "notificador": "email"
+    },
+    {
+        "nome": "gustavo",
+        "notificador": "email"
+    }
+]
